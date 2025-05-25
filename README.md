@@ -889,7 +889,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rahul Mehta](https://rahulmehta.dev)
 - [Rahul Sawant](http://raalzz.com)
 - [Raj Aryan](https://rajxryan.vercel.app)
-- [Raj Chhalotrte](https://raj-portfolio101.netlify.app/)
+- [Raj Chhalotre](https://raj-portfolio101.netlify.app/)
 - [Rajan Bhattarai](https://cdrrazan.com)
 - [Rajekevin](https://rajekevin.fr)
 - [Rakibul Islam](https://rakibul-islam-hasib.web.app)
